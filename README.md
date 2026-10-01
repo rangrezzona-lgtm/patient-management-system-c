@@ -43,12 +43,12 @@ Patient Management System
 
 ## Screenshots
 
-![Output 1](screenshots/output1.png)
-![Output 2](screenshots/output2.png)
-![Output 3](screenshots/output3.png)
-![Output 4](screenshots/output4.png)
-![Output 5](screenshots/output5.png)
-![Output 6](screenshots/output6.png)
+![Output 1](output1.png)
+![Output 2](output2.png)
+![Output 3](output3.png)
+![Output 4](output4.png)
+![Output 5](output5.png)
+![Output 6](output6.png)
 
 ## Limitations
 
