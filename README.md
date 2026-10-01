@@ -58,4 +58,3 @@ Patient Management System
 ## Author
 
 Zona Sameer Rangrez
-B.Tech CSE (AI & Data Science)
